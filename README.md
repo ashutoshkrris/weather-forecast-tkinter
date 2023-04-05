@@ -2,4 +2,4 @@
 
 ![Demo](demo.gif)
 
-Tutorial Coming Soon...
+Tutorial: https://www.freecodecamp.org/news/how-to-build-a-geolocation-based-weather-forecasting-system-using-tkinter/
